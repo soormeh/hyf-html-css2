@@ -1,9 +1,24 @@
-p{
-    font-family=arial;
-}
+
+    body{
+      background-color:bisque
+    }
+
 h2{
-  color=maroon;
+  color:#8a2be2;
+  text-align:center;
+  font-size:35px;
+
+
+p {
+  font-family:Arial;
+  font-size:20px;
 }
-.title{
-  color=teal;
+
+h3 {
+    color:red;
+    font-size:25px;
 }
+.green{
+    color:blue;
+}
+
